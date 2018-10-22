@@ -1,9 +1,3 @@
-POST /urls?site=https://www.mengxiangtg.net&token=hLBcHY5J0IWCQOF3 HTTP/1.1
-User-Agent: curl/7.12.1 
-Host: data.zz.baidu.com 
-Content-Type: text/plain 
-Content-Length: 83
-
 https://www.mengxiangtg.net/test3/
 https://www.mengxiangtg.net/test2/
 https://www.mengxiangtg.net/test1/
