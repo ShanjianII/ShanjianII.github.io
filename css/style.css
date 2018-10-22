@@ -58,6 +58,7 @@ div {
   padding: 58px 0 0;
   text-align: left;
   border-bottom: 1px solid #ddd;
+  background: url("images/banner.jpg") center #000;
   position: relative; }
   #header .site-name {
     margin-bottom: 40px; }
@@ -68,7 +69,7 @@ div {
       overflow: hidden; }
     #header .site-name #logo {
       font: bold 38px/1.12 "Times New Roman", Georgia, Times, sans-serif;
-      color: #555; }
+      color: #aa7359; }
       #header .site-name #logo span, #header .site-name #logo:hover {
         color: #777; }
     #header .site-name .description {
